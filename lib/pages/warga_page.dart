@@ -63,7 +63,7 @@ class WargaPage extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Muhamad Nizar Rahman',
+                        'Haikal Dwi Anggara',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 19,
